@@ -1,0 +1,13 @@
+<resources>
+    <string name="label.app_name">Songster</string>
+    <string name="label.settings">Settings</string>
+    <string name="label.search.noresults">No results matched your search.</string>
+    <string name="label.search.info">Search for songs and bookmark the ones you like.</string>
+    <string name="label.username">Username</string>
+    <string name="label.password">Password</string>
+    <string name="label.loginhint">Logging in is required to purchase %1$s</string>
+    <string name="label.login">Login</string>
+    <string name="label.purchasesuccessful">Successfully purchased %1$s by %2$s!</string>
+
+    <string name="hint.search">Search…</string>
+</resources>
